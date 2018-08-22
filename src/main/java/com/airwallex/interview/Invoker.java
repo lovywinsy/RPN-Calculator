@@ -1,4 +1,4 @@
-package edu.nwpu;
+package com.airwallex.interview;
 
 import java.io.BufferedReader;
 import java.io.IOException;

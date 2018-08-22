@@ -1,4 +1,4 @@
-package edu.nwpu;
+package com.airwallex.interview;
 
 public class Instruction {
     private Operator operator;
